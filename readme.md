@@ -32,8 +32,31 @@ _Specific versions of the above technologies are mostly trivial. If a version nu
 
 _Bootstrap has a dependency on jQuery. Please make sure that you install compatible versions later on in the tutorial._
 
-### FAQ
+## FAQ
 
-#### Why are we using Bootstrap and jQuery?
+### Where do I start?
+
+Read through the Table of Contents for an introduction and synopsis of each tutorial.
+
+Tutorials are more like exercises. You'll find that each tutorial has it's own branch, and you'll be expected to switch to the branch and follow along - sometimes installing, writing codes, or running tests. 
+
+Each tutorial builds upon the work you did previously. If you get stuck along the way, feel free to checkout the next branch to see the solution.
+
+### Prerequisites
+
+The training moving forward suspects you know how to do a small number of things, but will try to be explicit as possible when giving directions that may trip up new developers:
+
+- You have access to a computer and [operating system that supports Node.js](https://nodejs.org/en/download/).
+- You have access to a major browser client, such as [Google Chrome](https://www.google.com/chrome/), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Microsoft Edge](https://www.microsoft.com/en-us/edge).
+- You have written HTML, styled it with CSS, and controlled or expanded OOTB functionality with JavaScript.
+- You have experience working with a Git repository and know the basics: pull, commit, switch branches, etc. The training will reference the command line interface for Git, but it's perfectly acceptable for you to use a GUI interface.
+
+### Why are we using Bootstrap and jQuery?
 
 The popularity of these frameworks indicates that at one point or another, most of us had some level of familiarity with them. By taking advantage of libraries people already know (or at the very least ahve heard of) there's hopefully more focus and attention given to the topic of this training: Webpack.
+
+### Can I use [X] framework or library instead?
+
+Yes, you can. 
+
+But no, you shouldn't. What you learn and do here will leave you with the foundation for working on your own framework, library, applications, and sites after working through the tutorials.
