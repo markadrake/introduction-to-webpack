@@ -2,7 +2,7 @@
 
 The goal for this repo is to introduce anyone working with front-end technologies to the benefits of Webpack. 
 
-Webpack is a module bundler, and it's purpose is to take a complex and diverse set of development assets, and bundle them into manageable chunks for consumption (in this case, by a web browser).
+Webpack is a module bundler, and its purpose is to take a complex and diverse set of development assets, and bundle them into manageable chunks for consumption (in this case, by a web browser).
 
 [You can read more about Webpack here](https://webpack.js.org/concepts/), and [specific reasons to use a module bundler like Webpack here](https://webpack.js.org/concepts/why-webpack/).
 
@@ -38,7 +38,7 @@ _Bootstrap has a dependency on jQuery. Please make sure that you install compati
 
 Read through the Table of Contents for an introduction and synopsis of each tutorial.
 
-Tutorials are more like exercises. You'll find that each tutorial has it's own branch, and you'll be expected to switch to the branch and follow along - sometimes installing, writing codes, or running tests. 
+Tutorials are more like exercises. You'll find that each tutorial has its own branch, and you'll be expected to switch to the branch and follow along - sometimes installing, writing codes, or running tests. 
 
 Each tutorial builds upon the work you did previously. If you get stuck along the way, feel free to checkout the next branch to see the solution.
 
@@ -53,7 +53,7 @@ The training moving forward suspects you know how to do a small number of things
 
 ### Why are we using Bootstrap and jQuery?
 
-The popularity of these frameworks indicates that at one point or another, most of us had some level of familiarity with them. By taking advantage of libraries people already know (or at the very least ahve heard of) there's hopefully more focus and attention given to the topic of this training: Webpack.
+The popularity of these frameworks indicates that at one point or another, most of us had some level of familiarity with them. By taking advantage of libraries people already know (or at the very least have heard of) there's hopefully more focus and attention given to the topic of this training: Webpack.
 
 ### Can I use [X] framework or library instead?
 
